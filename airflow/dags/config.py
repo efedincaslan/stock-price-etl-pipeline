@@ -1,0 +1,1 @@
+SYMBOLS = ['AAPL','IBM', 'MSFT', 'GOOGL', 'AMZN']

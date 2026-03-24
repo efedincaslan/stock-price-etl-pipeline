@@ -1,0 +1,7 @@
+.env
+*_data_cache.json
+__pycache__/
+*.pyc
+airflow/logs/
+airflow/plugins/
+airflow/config/
